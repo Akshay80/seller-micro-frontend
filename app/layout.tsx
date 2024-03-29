@@ -8,8 +8,8 @@ import 'react-phone-number-input/style.css';
 import 'react-toastify/dist/ReactToastify.css';
 
 awsExports.oauth.domain = 'auth.worldtradex.com';
-awsExports.oauth.redirectSignIn = process.env.NX_AUTH_SIGN_IN_REDIRECT || 'http://localhost:4200/sso';
-awsExports.oauth.redirectSignOut = process.env.NX_AUTH_SIGN_OUT_REDIRECT || 'http://localhost:4200/logout';
+awsExports.oauth.redirectSignIn = process.env.NX_AUTH_SIGN_IN_REDIRECT || 'https://seller-micro-frontend.vercel.app/sso';
+awsExports.oauth.redirectSignOut = process.env.NX_AUTH_SIGN_OUT_REDIRECT || 'https://seller-micro-frontend.vercel.app/logout';
 Amplify.configure(awsExports);
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
