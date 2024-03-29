@@ -1,0 +1,109 @@
+[
+  {
+    "label": "Platform",
+    "subMenu": [
+      {
+        "label": "Why WorldTradeX",
+        "link": "/why"
+      },
+      {
+        "label": "How to sell on WorldTradeX",
+        "link": "/how-to-sell"
+      }
+    ]
+  },
+  {
+    "label": "Solutions",
+    "subMenu": [
+      {
+        "label": "Global e-Commerce Markets",
+        "link": "/international-trade"
+      },
+      {
+        "label": "B2B and Wholesale Business",
+        "link": "/b2b-ecommerce"
+      },
+      {
+        "label": "Verified Supplier",
+        "link": "/verified-supplier"
+      }
+    ]
+  },
+  {
+    "label": "Features",
+    "subMenu": [
+      {
+        "label": "Explore Product Features",
+        "link": "/features"
+      },
+      {
+        "label": "Open your Online Store",
+        "link": "/store-front"
+      },
+      {
+        "label": "Advertise your Business",
+        "link": "/advertising"
+      },
+      {
+        "label": "Showcase Popular Products",
+        "link": "/product-showcase"
+      },
+      {
+        "label": "Gain Buyer Leads",
+        "link": "/rfq"
+      },
+      {
+        "label": "Schedule Demo",
+        "link": "/schedule-demo"
+      },
+      {
+        "label": "Get Local Service",
+        "link": "/get-local-service"
+      }
+    ]
+  },
+  {
+    "label": "Pricing",
+    "link": "/pricing",
+    "subMenu": []
+  },
+  {
+    "label": "Resources",
+    "link": "#",
+    "subMenu": [
+      {
+        "label": "Success Stories",
+        "link": "/stories"
+      },
+      {
+        "label": "Webinars",
+        "link": "/webinars"
+      },
+      {
+        "label": "Product Trends",
+        "link": "/product-trend"
+      },
+      {
+        "label": "Playbooks",
+        "link": "/playbooks"
+      },
+      {
+        "label": "Learning Center",
+        "link": "/learning-center"
+      },
+      {
+        "label": "Industry Reports",
+        "link": "/industry-reports"
+      },
+      {
+        "label": "Get Seller App",
+        "link": "/seller-app"
+      }
+    ]
+  },
+  {
+    "label": "Business Blogs",
+    "link": "/blog",
+    "subMenu": []
+  }
+]

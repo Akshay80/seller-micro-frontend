@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Platform",
+    "items": [
+      {
+        "name": "Why WorldTradeX",
+        "href": "/why"
+      },
+      {
+        "name": "How to sell on WorldTradeX",
+        "href": "/how-to-sell"
+      },
+      {
+        "name": "Product features",
+        "href": "/features"
+      },
+      {
+        "name": "Services",
+        "href": "/services"
+      },
+      {
+        "name": "RFQ",
+        "href": "/rfq"
+      },
+      {
+        "name": "Storefront",
+        "href": "/store-front"
+      },
+      {
+        "name": "KWA",
+        "href": "/kwa"
+      },
+      {
+        "name": "Keyword Trend",
+        "href": "/keyword-trend"
+      },
+      {
+        "name": "Product Showcase",
+        "href": "/product-showcase"
+      }
+    ]
+  },
+  {
+    "name": "Solutions",
+    "items": [
+      {
+        "name": "B2B and wholesale business",
+        "href": "/b2b-ecommerce"
+      },
+      {
+        "name": "Wholesale ecommerce",
+        "href": "/wholesale-ecommerce"
+      },
+      {
+        "name": "International trade",
+        "href": "/international-trade"
+      },
+      {
+        "name": "Global buy, global sell",
+        "href": "/global-buy-global-sell"
+      }
+    ]
+  },
+  {
+    "name": "Pricing",
+    "href": "/pricing",
+    "sub_name": "Success stories",
+    "sub_href": "/stories",
+    "items": []
+  },
+  {
+    "name": "Resources",
+    "href": "#",
+    "items": [
+      {
+        "name": "Business blogs",
+        "href": "/blog"
+      },
+      {
+        "name": "Webinars",
+        "href": "/webinars"
+      },
+      {
+        "name": "Industry reports",
+        "href": "/industry-reports"
+      },
+      {
+        "name": "Playbooks",
+        "href": "/playbooks"
+      },
+      {
+        "name": "Learning center",
+        "href": "/learning-center"
+      }
+    ]
+  }
+]

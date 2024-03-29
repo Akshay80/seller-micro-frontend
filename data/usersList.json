@@ -1,0 +1,20 @@
+{
+    "data": [
+      {
+        "options": [
+          "All"
+        ]
+      },
+      {
+        "tableColumn": [
+            "Image", 
+            "Name",
+            "Email Address",
+            "Phone", 
+            "Role", 
+            "Created On",
+            "Actions"
+        ]
+      }
+    ]
+  }

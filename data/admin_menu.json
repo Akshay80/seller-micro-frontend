@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Dashboard",
+    "icon": "house",
+    "href": "/app/dashboard"
+  },
+  {
+    "name": "Products",
+    "icon": "cart",
+    "href": "/app/product"
+  },
+  {
+    "name": "Orders",
+    "icon": "bag",
+    "href": "/app/order"
+  },
+  {
+    "name": "Payments",
+    "icon": "currency-dollar",
+    "href": "/app/payment"
+  },
+  {
+    "name": "Reviews",
+    "icon": "star",
+    "href": "/app/review"
+  },
+  {
+    "name":"messages",
+    "icon":"chat",
+    "href":"/app/chat"
+  },
+  {
+    "name": "Users",
+    "icon": "people",
+    "href": "/app/user"
+  },
+  {
+    "name": "My profile",
+    "icon": "person-check",
+    "href": "/app/seller-profile"
+  },
+  {
+    "name": "RFQ",
+    "icon": "person-check",
+    "href": "/app/rfq"
+  }
+]

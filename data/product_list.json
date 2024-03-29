@@ -1,0 +1,34 @@
+{
+    "data": [
+      {
+        "label": "Active",
+        "search_value":"active",
+        "value": true
+    },
+    {
+        "label": "Inactive",
+        "search_value":"inactive",
+        "value": false
+    },
+      {
+        "options": [
+          "All",
+          "Active",
+          "Inactive"
+        ]
+      },
+      {
+        "tableColumn": [
+          "Image", 
+          "Name",
+          "Product Category",
+          "Unit Price", 
+          "Unit Type",
+          "Stock", 
+          "Status", 
+          "Created At",
+          "Action"
+        ]
+      }
+    ]
+  }
